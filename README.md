@@ -1,5 +1,5 @@
 # 安卓学习路线
-![pic](images/android_learning_lines.png)
+![pic](coding/doc/images/android_learning_lines.png)
 
 ## Android简介
 - Android介绍
