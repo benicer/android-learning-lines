@@ -1,4 +1,4 @@
-![pic](../../coding/doc/images/Android_robot_2014.svg.png)
+![pic](../../资源&文档/images/Android_robot_2014.svg.png)
 
 ## Android维基百科
 ```
@@ -12,9 +12,9 @@ Android最初由安迪·鲁宾（Andy Rubin）等人开发制作[6]，最初开�
 
 ```
 ## Android 6.0
-![pic](../../coding/doc/images/Android_6.0-en.png)
+![pic](../../资源&文档/images/Android_6.0-en.png)
 ## 架构
-![pic](../../coding/doc/images/Android-System-Architecture.svg.png)
+![pic](../../资源&文档/images/Android-System-Architecture.svg.png)
 
 - [Android官网](https://www.android.com/)
 - [安卓开发者官网](https://developer.android.com/index.html)
